@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lordchungus07
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning software engineering
